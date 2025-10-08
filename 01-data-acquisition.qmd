@@ -1,0 +1,9 @@
+---
+title: 01-data-acquisition
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
+
